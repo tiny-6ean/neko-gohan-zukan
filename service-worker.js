@@ -1,10 +1,10 @@
-const CACHE_NAME = "neko-gohan-zukan-v2";
+const CACHE_NAME = "neko-gohan-zukan-v3";
 const urlsToCache = [
   "/",
   "/index.html",
   "/manifest.json",
-  "/img/bousai192-v5.png",
-  "/img/bousai512-v5.png"
+  "/zukan192.png",
+  "/zukan512.png"
 ];
 
 self.addEventListener("install", event => {
