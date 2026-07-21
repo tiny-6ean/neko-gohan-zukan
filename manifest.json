@@ -1,0 +1,20 @@
+{
+  "name": "ねこごはん図鑑",
+  "short_name": "ごはん図鑑",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/zukan192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/zukan512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
