@@ -1,4 +1,4 @@
-const CACHE_NAME = "neko-gohan-zukan-v1";
+const CACHE_NAME = "neko-gohan-zukan-v2";
 const urlsToCache = [
   "/",
   "/index.html",

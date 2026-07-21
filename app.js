@@ -330,6 +330,6 @@ renderFoodsTable();
 renderTagsTable();
 
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("/neko-food/service-worker.js");
+  navigator.serviceWorker.register("/neko-gohan-zukan/service-worker.js");
 }
 
